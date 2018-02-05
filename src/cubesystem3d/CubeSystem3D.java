@@ -316,6 +316,13 @@ public class CubeSystem3D extends Application {
         play();
     }
 
+    public void super_resynchronization(){
+        int i;
+        i++;
+        i--;   
+    }
+    
+    
     /**
      * The main() method is ignored in correctly deployed JavaFX 
      * application. main() serves only as fallback in case the 
