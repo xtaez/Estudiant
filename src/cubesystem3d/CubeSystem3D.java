@@ -317,7 +317,7 @@ public class CubeSystem3D extends Application {
     }
 
     public void super_resynchronization(){
-        int i;
+        int i=0;
         i++;
         i--;   
     }
